@@ -1,5 +1,5 @@
 To use:
-- Create .env file
+- Create `.env` file
 - Insert your OpenAI API key (This notebook uses `gpt-4o' as default.
 - Install `marimo` with:
 ```
