@@ -7,3 +7,5 @@ pip install marimo
 ```
 - Run marimo on your installed dir: `marimo edi`
 - Run `app.py`
+- Click `ctr` + `.` to toggle app view or search for Marimo.
+  
